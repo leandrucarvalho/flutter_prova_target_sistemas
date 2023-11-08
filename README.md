@@ -38,7 +38,7 @@ Este é um aplicativo Flutter de autenticação simples que inclui uma tela de l
 2. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/flutter_authentication_app.git
+   git clone https://github.com/leandrucarvalho/flutter_prova_target_sistemas
    ```
 
 3. Navegue até o diretório do projeto:
