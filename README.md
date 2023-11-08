@@ -27,8 +27,9 @@ Este é um aplicativo Flutter de autenticação simples que inclui uma tela de l
 
 ### Screenshots
 
-![Tela de Login](screenshots/tela_login.png)
-![Tela de Captura de Informações](screenshots/tela_info.png)
+![tela_login](https://github.com/leandrucarvalho/flutter_prova_target_sistemas/assets/56963289/24133162-88ea-4ebe-9048-6c0b9a475bb4)
+![tela_info](https://github.com/leandrucarvalho/flutter_prova_target_sistemas/assets/56963289/978ea7e8-5ae5-4a97-9d1e-a7c51a7fbe31)
+
 
 ### Como Executar
 
